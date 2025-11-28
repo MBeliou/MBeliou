@@ -1,8 +1,8 @@
 # Hey, I'm Maxime 👋
 
-Full-stack developer building at the intersection of blockchain and traditional web. I'm based in France and work remotely with teams worldwide.
+Full-stack developer building for both blockchain and traditional web. I'm based in France and work remotely with teams worldwide.
 
-I ship products—from DeFi protocols to dev tooling to whatever problem needs solving. Currently splitting time between open-source work, personal and client projects.
+I ship products from beginning to end, whatever the problem that need solving. Currently splitting time between open-source work, personal and client projects.
 
 ## What I'm Working On
 
